@@ -75,7 +75,7 @@ product information.
 | **Eclipse IDE** | Development Environment |
 
 ---
-
+<img width="1664" height="916" alt="image" src="https://github.com/user-attachments/assets/456b54e9-5395-48ad-a142-7971d1397a54" /> <img width="1882" height="913" alt="image" src="https://github.com/user-attachments/assets/dfd1bfe7-b73d-49bb-a323-3d76a35ce2cd" /> <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/4ce79ae7-d773-45df-aa5b-c6d06653f1b0" /> <img width="1911" height="924" alt="image" src="https://github.com/user-attachments/assets/66354dd8-6c83-487b-b09c-295a3665f718" /> <img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/0f897502-ff12-4cf6-9828-bf618cfdeb7a" /> <img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/c5a2061a-f057-4815-aa48-adb7bcb6e19d" /> <img 
 ## 🏗️ **Project Architecture**
 
 ```text
@@ -106,4 +106,4 @@ product information.
 
 
 
-<img width="1664" height="916" alt="image" src="https://github.com/user-attachments/assets/456b54e9-5395-48ad-a142-7971d1397a54" /> <img width="1882" height="913" alt="image" src="https://github.com/user-attachments/assets/dfd1bfe7-b73d-49bb-a323-3d76a35ce2cd" /> <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/4ce79ae7-d773-45df-aa5b-c6d06653f1b0" /> <img width="1911" height="924" alt="image" src="https://github.com/user-attachments/assets/66354dd8-6c83-487b-b09c-295a3665f718" /> <img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/0f897502-ff12-4cf6-9828-bf618cfdeb7a" /> <img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/c5a2061a-f057-4815-aa48-adb7bcb6e19d" /> <img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/b97b29bb-0068-4267-92c5-9b66f91c43d0" />
+width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/b97b29bb-0068-4267-92c5-9b66f91c43d0" />
